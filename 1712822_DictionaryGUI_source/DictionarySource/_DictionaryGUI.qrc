@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="_DictionaryGUI"/>
+  <qresource prefix="newPrefix">
+    <file>settingButton.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>remove.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>img_388871.png</file>
+  </qresource>
+</RCC>
